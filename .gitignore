@@ -1,0 +1,22 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Large data assets
+dataset/
+df.csv
+02. Dataset_FordEngine.zip
+
+# Local/editor files
+.vscode/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.log
