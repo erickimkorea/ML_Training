@@ -9,6 +9,9 @@ __pycache__/
 # Logs
 *.log
 
+# CatBoost artifacts
+catboost_info/
+
 # Large data assets
 dataset/
 df.csv
